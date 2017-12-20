@@ -1,3 +1,8 @@
+// This script reads CSV file and uploads data to SharePoint list
+// This script is not universal - it was created specifically for certen circumstances 
+// needs to be adapted in order to work in another environment
+
+
 var context;
 var Result = 0;
 
